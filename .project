@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< Upstream, based on branch 'master' of https://github.com/Danielip1705/EjercicioSalva.git
 	<name>EjercicioSalva</name>
+=======
+	<name>TrabajoSalva</name>
+>>>>>>> 75d7aaf Definicion de las clases: Antonio Creacion de la funcion mostrar(): Daniel Creacion de la funcion anyadirViaje(): Jesus Actualización del sprint 1: Todos
 	<comment></comment>
 	<projects>
 	</projects>
