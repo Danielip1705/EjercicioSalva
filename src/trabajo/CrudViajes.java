@@ -14,6 +14,6 @@ public class CrudViajes {
 	 *añadirViaje(Viaje vij)
 	 *listado()
 	 *delete(Viaje vij)
-	 *guardar
+	 *guardarEnArchivo()
 	 */
 }
